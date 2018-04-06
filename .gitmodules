@@ -10,3 +10,6 @@
 [submodule "application/plugins/sociality"]
 	path = application/plugins/sociality
 	url = https://olezhikz:GfhjkmLkzBitbucket@bitbucket.org/olezhikz/livestreet-sociality.git
+[submodule "application/plugins/ymaps"]
+	path = application/plugins/ymaps
+	url = https://olezhikz:GfhjkmLkzBitbucket@bitbucket.org/olezhikz/livestreet-ymaps.git
