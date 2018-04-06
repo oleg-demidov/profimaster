@@ -4,3 +4,6 @@
 [submodule "application/plugins/admin"]
 	path = application/plugins/admin
 	url = https://github.com/livestreet/lsplugin-admin
+[submodule "application/plugins/fix_category"]
+	path = application/plugins/fix_category
+	url = https://github.com/olezhikz/livestreet-fix-category
