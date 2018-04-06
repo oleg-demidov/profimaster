@@ -13,3 +13,15 @@
 [submodule "application/plugins/ymaps"]
 	path = application/plugins/ymaps
 	url = https://olezhikz:GfhjkmLkzBitbucket@bitbucket.org/olezhikz/livestreet-ymaps.git
+[submodule "application/plugins/ydirect"]
+	path = application/plugins/ydirect
+	url = https://github.com/olezhikz/livestreet-ydirect
+[submodule "application/plugins/robokassa"]
+	path = application/plugins/robokassa
+	url = https://github.com/olezhikz/livestreet-robokassa
+[submodule "application/plugins/permissions"]
+	path = application/plugins/permissions
+	url = https://github.com/olezhikz/livestreet-permissions
+[submodule "application/plugins/freelancer"]
+	path = application/plugins/freelancer
+	url = https://github.com/olezhikz/livestreet-freelancer
