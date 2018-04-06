@@ -7,3 +7,6 @@
 [submodule "application/plugins/fix_category"]
 	path = application/plugins/fix_category
 	url = https://github.com/olezhikz/livestreet-fix-category
+[submodule "application/plugins/sociality"]
+	path = application/plugins/sociality
+	url = https://olezhikz:GfhjkmLkzBitbucket@bitbucket.org/olezhikz/livestreet-sociality.git
