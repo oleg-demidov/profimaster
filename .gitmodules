@@ -25,3 +25,6 @@
 [submodule "application/plugins/freelancer"]
 	path = application/plugins/freelancer
 	url = https://github.com/olezhikz/livestreet-freelancer
+[submodule "application/frontend/skin/profimaster"]
+	path = application/frontend/skin/profimaster
+	url = https://github.com/olezhikz/livestreet-profimaster-skin
