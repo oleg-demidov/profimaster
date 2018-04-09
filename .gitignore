@@ -2,7 +2,8 @@
 /application/config/config.testing.php
 /application/config/config.production.php
 /application/logs/*
-
+/nbproject
 /application/tmp/*
 /uploads/*
 /.idea/
+/nbproject/private/
